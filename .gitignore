@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NewTask/bin/Debug/netcoreapp3.1
+/NewTask/obj
+/RabbitQueue/.vs/RabbitQueue/v16
+/Worker/bin/Debug/netcoreapp3.1
+/Worker/obj/Debug/netcoreapp3.1
+/Worker/obj
